@@ -1,2 +1,1 @@
-# ccpsychology.com
-Website
+permalink: /index.html
