@@ -179,16 +179,15 @@
     "photo":"assets/img/teams/20.jpg",
     "video":"https://www.youtube.com/embed/_P0cJwk3XPk",
     "bio":"Introduction: Hello, my name is Dr. Edgar Petrosyan, and I am a Psychological Assistant with a Doctoral Degree in Clinical Psychology, with Emphasis in Depth Psychology, a modality primarily based on the theories of Carl G. Jung.  My approach to helping clients is based on the understanding that as we move forward in life/time, we come across challenges that sometimes make it difficult for us to move forward.  These challenges may have been experienced anytime from infancy to adulthood.  Due to the passage of time and natural defenses, we may no longer be aware of how we are still effected by the difficulties experienced in our past, which may be nothing more then a feeling, or a pattern of relationships.  These effects may be embodied as depression, anxiety, addiction, relationship difficulties, and so on.  My goal as your therapist will be to help you build a better relationship with yourself by challenging you to navigate through the difficult emotions at an appropriate pace, which will naturally lead to improved relationships and overall happiness.  I approach each of my clients as unique individuals, a uniqueness that some may say is forged by chance, such as, year of birth, culture and family in which the person is born into, childhood experiences, personality traits, unconscious drives, and so on.  Therefore, I approach each individual with the respect that all these factors, as well as those not mentioned, helped forge you into a one of a kind masterpiece in the making, a work of art for which there is no replica."
-  }
+  },
   {
-	    "code":"bg-info",
-	    "id":"erin",
-	    "name":"Erin Lynch, Psy.D.",
-	    "title": "Clinical Psychologist",
-	    "license":"PSY23871",
-	    "photo":"assets/img/teams/21.jpg",
-	    "video":"",
-	    "bio":"I believe that therapy can be a transformative experience and I believe that you possess the innate ability to reach your full potential. My role as a psychologist is to create a safe, supportive, and compassionate space where you can create lasting change within yourself. I take a strengths-based, holistic approach and draw from a variety of treatment modalities tailored to your individual needs. I specialize in working with individuals who have experienced trauma, but also have extensive experience working with clients who have experienced depression, anxiety ,work related stress, adoption, divorce and family relationship difficulties."
-	  }
-
+    "code":"bg-info",
+    "id":"erin",
+    "name":"Erin Lynch, Psy.D.",
+    "title": "Clinical Psychologist",
+    "license":"PSY23871",
+    "photo":"assets/img/teams/21.jpg",
+    "video":"",
+    "bio":"I believe that therapy can be a transformative experience and I believe that you possess the innate ability to reach your full potential. My role as a psychologist is to create a safe, supportive, and compassionate space where you can create lasting change within yourself. I take a strengths-based, holistic approach and draw from a variety of treatment modalities tailored to your individual needs. I specialize in working with individuals who have experienced trauma, but also have extensive experience working with clients who have experienced depression, anxiety ,work related stress, adoption, divorce and family relationship difficulties."
+  }
 ]
