@@ -34,7 +34,7 @@
     "id":"jon",
     "name":"Jon Vorpe, AMFT",
     "title": "Associate Marriage and Family Therapist",
-    "license":"LMFT121481",
+    "license":"AMFT121481",
     "photo":"assets/img/teams/22.jpg",
     "video":"https://www.youtube.com/embed/YHVkQZPZujM",
     "bio":"Hi! My name is Jon Vorpe and I am an Associate Marriage & Family Therapist, working under the supervision of Dr. Inga Simonian. I believe that therapy is a space where radical transformation and change can occur. I actively cultivate patient trust in the ever-evolving process of growth. I believe strongly in the value of bonding with clients so they understand that I am on their journey alongside them. The therapeutic relationship is a collaboration and a beautiful experience that I believe can be a powerful source of awakening. I can’t wait to meet you and start our journey together. "
@@ -104,7 +104,7 @@
     "id":"irene",
     "name":"Irene Hernandez, AMFT",
     "title": "Associate Marriage and Family Therapist",
-    "license":"LMFT109745",
+    "license":"AMFT109745",
     "photo":"assets/img/teams/15.jpg",
     "video":"https://www.youtube.com/embed/4dXq183UPeA",
     "bio":"Hello! I am Irene Hernandez, I am a registered marriage family and child therapist associate working under the licensed clinician of Theresa Journeau-Collins LMFT. I earned my masters at the University of Phoenix, where I obtained training with the Pomona Unified school district in their school mental health department. There I worked with families and provided individual therapy to children and adolescents. I also currently work at BHC Alhambra hospital in the assessment and referral department where I am trained in risk assessment skills with suicidal patients diagnosed with various psychotic and depressive disorders. As a therapist I am passionate about helping individuals find a sense of self and holistic wellbeing. My specialties' include various aspects of depression, anxiety, grief and loss, adjustment disorders, etc. Approaches I use in therapy include but are not limited to cognitive behavioral therapy, behavioral therapy, art therapy, play therapy, reality therapy, solution-focused therapy, and narrative therapy. I believe in working with the client collaboratively to develop an approach that best works for each individuals needs. I look forward to speaking with you!"
@@ -142,7 +142,7 @@
         {
     "code":"bg-success",
     "id":"stefanie",
-    "name":"Stefanie Garcia, MFT",
+    "name":"Stefanie Garcia, LMFT",
     "title": "Marriage and Family Therapist",
     "license":"LMFT111393",
     "photo":"assets/img/teams/12.jpg",
