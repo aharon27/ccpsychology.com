@@ -100,7 +100,7 @@
     "bio":"I believe in the power of the narrative that we tell ourselves on a daily basis. We are ften unkind to ourselves and repeat critical inner thoughts and judgments about all aspects of our lives, like the choices we've made, the way we look, the things we have, the things we don't have, etc. Frequently we repeat these destructive internal thoughts so often we come to believe them as facts. I consider the rapport between the therapist and the client to be of the upmost importance. I work emphatically with my clients to help them discover how their inner monologues might be affecting their lives. I am sensitive to how effective communication can be naturally difficult for some, and because of this, I strive for a collaborative approach in therapy. I believe that through the careful exchange of words and creating a safe non-judgmental space, connections are made that cultivate change! I integrate certain strategies and interventions from Narrative Therapy (Th), Solution Focused (Th), Cognitive Behavior Therapy (CBT), Person Centered (Th), and Emotion Focused (Th). I have a background in working with children and families who are experiencing grief due to the loss of a child or a parent. I also enjoy working with individuals and couples who want more valuable communication, intimacy, and conflict resolutions in their relationships, or who want to increase their self-esteem, decrease their stress, and achieve their goals."
   },
        {
-    "code":"bg-success",
+    "code":"bg-primary",
     "id":"irene",
     "name":"Irene Hernandez, AMFT",
     "title": "Associate Marriage and Family Therapist",
@@ -170,7 +170,7 @@
     "bio":"Introduction: Hello, my name is Dr. Edgar Petrosyan, and I am a Psychological Assistant with a Doctoral Degree in Clinical Psychology, with Emphasis in Depth Psychology, a modality primarily based on the theories of Carl G. Jung.  My approach to helping clients is based on the understanding that as we move forward in life/time, we come across challenges that sometimes make it difficult for us to move forward.  These challenges may have been experienced anytime from infancy to adulthood.  Due to the passage of time and natural defenses, we may no longer be aware of how we are still effected by the difficulties experienced in our past, which may be nothing more then a feeling, or a pattern of relationships.  These effects may be embodied as depression, anxiety, addiction, relationship difficulties, and so on.  My goal as your therapist will be to help you build a better relationship with yourself by challenging you to navigate through the difficult emotions at an appropriate pace, which will naturally lead to improved relationships and overall happiness.  I approach each of my clients as unique individuals, a uniqueness that some may say is forged by chance, such as, year of birth, culture and family in which the person is born into, childhood experiences, personality traits, unconscious drives, and so on.  Therefore, I approach each individual with the respect that all these factors, as well as those not mentioned, helped forge you into a one of a kind masterpiece in the making, a work of art for which there is no replica."
   },
   {
-    "code":"bg-info",
+    "code":"bg-warning",
     "id":"Debbi",
     "name":"Debbi Odell, AMFT",
     "title": "Associate Marriage and Family Therapist",
@@ -190,7 +190,7 @@
     "bio":"Hello, my name is Daina Castro, and I am an Associate Marriage and Family therapist working under the supervision of Dr. Inga Simonian.  I welcome you to therapy and I truly am so happy that you are taking this next step in your life. My role as a therapist is to help you discover your most authentic self and achieve your goals through a safe, non-judgmental, and compassionate space. I believe that therapy is a collaborative experience, and I work with each and every one of my clients to gain their trust as well as form a relationship with them. I look forward to meeting with you and starting our journey together."
   },
   {
-    "code":"bg-info",
+    "code":"bg-primary",
     "id":"alex",
     "name":"Alex Barragan, AMFT",
     "title": "Associate Marriage and Family Therapist",
