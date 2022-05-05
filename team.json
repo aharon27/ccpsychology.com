@@ -30,7 +30,7 @@
     "bio":"Hi! My name is Jon Vorpe and I am an Associate Marriage & Family Therapist, working under the supervision of Dr. Inga Simonian. I believe that therapy is a space where radical transformation and change can occur. I actively cultivate patient trust in the ever-evolving process of growth. I believe strongly in the value of bonding with clients so they understand that I am on their journey alongside them. The therapeutic relationship is a collaboration and a beautiful experience that I believe can be a powerful source of awakening. I can’t wait to meet you and start our journey together. "
   },
     {
-    "code":"bg-primary",
+    "code":"bg-success",
     "id":"rosanna",
     "name":"Rosanna Daragchyan,LMFT",
     "title": "Marriage and Family Therapis",
@@ -90,7 +90,7 @@
     "bio":"I believe that we all have the characteristics to face life's challenges, but sometimes we may need some help recognizing our strengths. I utilize a multidimensional approach to therapy, exploring each individual's biological, psychological, social, and spiritual needs. I like to assist in helping others heal from trauma, build self-worth, improve communication in relationships, and reach goals. With compassion and understanding, I work with each individuals to help them build on their strengths and attain the personal growth they are committed to accomplishing."
   },      
   {
-    "code":"bg-info",
+    "code":"bg-warning",
     "id":"michelle",
     "name":"Michelle Melendres, Ed.D., MSW",
     "title": "Clinical Social Worker",
@@ -120,7 +120,7 @@
     "bio":"Throughout all of my experiences I have worked with an extremely diverse clientele. Diversity and understanding the importance of social and cultural factors, and identity development has always been an interest of mine. My specialization is working in diversified communities of color primarily with at risk youth and young adults suffering from substance misuse, depression, anxiety and trauma."
   },
     {
-    "code":"bg-info",
+    "code":"bg-success",
     "id":"edgar",
     "name":"Edgar Petrosyan, Ph.D.",
     "title": "Psychological Assistant",
