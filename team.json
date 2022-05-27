@@ -1,6 +1,6 @@
 [
     {
-    "code":"bg-success",
+    "code":"bg-warning",
     "id":"jane",
     "name":"Jane Oh, Ph.D.",
     "title": "Clinical Psychologist",
@@ -50,14 +50,14 @@
     "bio":"My passion as a therapist is the belief that human relationships are fostered by the practice of self-compassion, courage, and connection. I will guide you using a culturally-inclusive and trauma-informed perspective that includes listening with an empathic and non-judgmental lens. I will incorporate complementary interdisciplinary strategies from Cognitive Behavior Therapy (CBT), strengths based, person-centered, and mindfulness when appropriate to your goals. My areas of expertise are humans who self-identify under umbrellas of diversity. I believe all identities should be recognized and supported, including validating sexual and gender identity labels such as LGBTQIA+ individuals and couples, as well as folks who practice relationship diversity on a spectrum from monogamy to ethical non-monogamy. I earned my Master's of Science in Counseling Psychology from Mount Saint Mary's University in Los Angeles and my Bachelor's degree from Wesleyan University in Connecticut. As an Associate Marriage and Family Therapist practicing under Dr. Inga Simonian, a licensed psychologist, I have experience working with adolescents, seniors, couples, and individuals. I strive to create a safe space where perceived vulnerabilities and imperfections can be redefined and embraced as positive catalysts to healing energy and authentic growth. I believe human beings are worthy of belonging and love, and I hope to collaborate with you on your courageous journey of healing your body, mind, and spirit."
   },
        {
-    "code":"bg-primary",
+    "code":"bg-info",
     "id":"irene",
     "name":"Irene Hernandez, AMFT",
     "title": "Associate Marriage and Family Therapist",
     "license":"AMFT109745",
     "photo":"assets/img/teams/15.jpg",
     "video":"https://www.youtube.com/embed/4dXq183UPeA",
-    "bio":"Hello! I am Irene Hernandez, I am a registered marriage family and child therapist associate working under the licensed clinician of Theresa Journeau-Collins LMFT. I earned my masters at the University of Phoenix, where I obtained training with the Pomona Unified school district in their school mental health department. There I worked with families and provided individual therapy to children and adolescents. I also currently work at BHC Alhambra hospital in the assessment and referral department where I am trained in risk assessment skills with suicidal patients diagnosed with various psychotic and depressive disorders. As a therapist I am passionate about helping individuals find a sense of self and holistic wellbeing. My specialties' include various aspects of depression, anxiety, grief and loss, adjustment disorders, etc. Approaches I use in therapy include but are not limited to cognitive behavioral therapy, behavioral therapy, art therapy, play therapy, reality therapy, solution-focused therapy, and narrative therapy. I believe in working with the client collaboratively to develop an approach that best works for each individuals needs. I look forward to speaking with you!"
+    "bio":"Hello and welcome! My name is Irene and I am passionate about helping others find a sense of self and holistic wellbeing. I am a licensed marriage and family therapist who works with both adults and adolescents seeking to find ways in which to grow and live a fulfilling life. By empowering my clients to learn to create boundaries and foster loving relationships with both themselves and those around them and creating healthy habits. I work with clients on identifying triggers and assist with adjusting the negative mindset to create a more positive outlook. I am a client centered therapist that believes working with the client collaboratively to develop an approach that works best for your individual needs. I have experience working with depression, anxiety, grief, adjustment and transitions throughout life stages. Great job on taking the first step of reaching out, I look forward to hearing from you and being apart of your journey of healing."
   },
         {
     "code":"bg-warning",
@@ -90,7 +90,7 @@
     "bio":"My name is Dr. Michelle Melendres and I am an Associate Clinical Social Worker, under the supervision of Dr. Inga Simonian. Originally from Hawaii, I have a Master of Science in Social Work from Columbia University and a Doctoral Degree in Education from the University of California, Los Angeles. Because everyone's journey and circumstances are different, my therapeutic approach is one that is customized specifically to you, cognizant of your unique background and understanding the complex intersectionality of your identity. I integrate a mindfulness-based approach through an in-depth assessment that will focus on your strengths and build your capacity to be present. Through the work we do, my hope is to empower you to cultivate self-compassion to feel much more balanced and whole. While working with you, I will incorporate an ecological framework and biological, psychological, social, and spiritual approach that takes into consideration all aspects of who you are, what your circumstances are, the environment in which you are in, and the changes that come with these."
   },
         {
-    "code":"bg-success",
+    "code":"bg-primary",
     "id":"stefanie",
     "name":"Stefanie Garcia, LMFT",
     "title": "Marriage and Family Therapist",
@@ -130,7 +130,7 @@
     "bio":"Hi, I’m Debbi Odell, an Associate Marriage and Family Therapist with nine years of experience in the mental health field.  I earned my masters at Antioch University of Santa Barbara with a Somatic concentration, and I am currently working toward an Expressive Arts Therapy certificate.  I am LGBTQ+ and social justice-allied, and I use client-centered, trauma-informed, attachment, and Internal Family Systems approaches combined with expressive arts and somatic interventions.  I work with children, teens, adults, couples, and families, helping clients with many issues including grief, anxiety, depression, trauma, mental illness, and relationships.  I believe the therapeutic relationship needs to have safety, trust, respect, and honest communication, so I collaborate with clients to create an environment that feels supportive.  I look forward to meeting you and working together toward a more fulfilling life."
   },
   {
-    "code":"bg-info",
+    "code":"bg-succes",
     "id":"daina",
     "name":"Daina Castro, AMFT",
     "title": "Associate Marriage and Family Therapist",
