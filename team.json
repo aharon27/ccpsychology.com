@@ -120,17 +120,17 @@
     "bio":"Welcome! My name is Dr. D. Youduba and I am a Psychological Associate with a Doctoral Degree in Clinical Psychology working under the supervision of Dr. Shagheyegh Habibi. I will start by saying that the issues of life can be challenging and daunting which can cause one to feel a sense of fear, uneasiness, powerlessness, imbalance, hopelessness, weariness, disconnectedness, shame, anger, and the list goes on. However, there is hope in the face of seeking help. As a therapist, my primary goal is to be of service to you and collaborate with you on your journey of self-discovery and utilizing your strengths to overcome the challenges before you. To make you feel welcomed and comfortable, I will also provide you with a safe and therapeutic space that allows you to explore and express your innermost feelings, thoughts, emotions, and life experiences. I have extensive experience working with diverse populations on issues such as mood disorders such as depression, anxiety, trauma-related issues, relationship challenges, self-esteem issues, and grief and loss. Through a collaborative effort, I am here to assist you in exploring your concern(s) and empowering you in embracing a new perspective towards attaining positive overcomes. I employ a strengths-based, wholistic approach as well as draw from a variety of treatment modalities such as cognitive-behavioral therapy, psycho-dynamic, and rational-emotive counseling that is tailored to meet your individual needs. I also integrate self-awareness and mindfulness in my therapeutic style which would assist you in developing in-depth insight and focus on the present. I hope to have the opportunity to collaborate with you and to be of service in actualizing your mental health goal(s)."
   },
   {
-    "code":"bg-warning",
-    "id":"",
-    "name":"Coming Soon!",
-    "title": "",
-    "license":"",
+    "code":"bg-success",
+    "id":"lady",
+    "name":"Lady Bevel, PA",
+    "title": "Psychological Associate",
+    "license":"PA94028854",
     "photo":"assets/img/teams/",
     "video":"",
-    "bio":""
+    "bio":"I am a depth psychologist in training with expertise in narrative therapy, mindfulness, psychodynamic approaches, Jungian analysis, and motivational therapy who weaves together multiple therapeutic traditions to explore the subconscious , personal stories, and the transformative power of self-awareness. My goal is to meet clients where they are, guiding them with compassion and insight as they navigate their path toward self-growth. I am passionate about creating a safe and supportive space, my intention is helping clients explore their personal narratives with courage and self-awareness. My empathic nature and spiritual awareness encourages a mindful approach to healing, empowering clients to examine, observe, and overcome obstacles."
   },
   {
-    "code":"bg-success",
+    "code":"bg-warning",
     "id":"daina",
     "name":"Daina Castro, AMFT",
     "title": "Associate Marriage and Family Therapist",
