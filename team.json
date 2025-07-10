@@ -130,7 +130,7 @@
     "bio":"Welcome! My name is Dr. D. Youduba and I am a Psychological Associate with a Doctoral Degree in Clinical Psychology working under the supervision of Dr. Shagheyegh Habibi. I will start by saying that the issues of life can be challenging and daunting which can cause one to feel a sense of fear, uneasiness, powerlessness, imbalance, hopelessness, weariness, disconnectedness, shame, anger, and the list goes on. However, there is hope in the face of seeking help. As a therapist, my primary goal is to be of service to you and collaborate with you on your journey of self-discovery and utilizing your strengths to overcome the challenges before you. To make you feel welcomed and comfortable, I will also provide you with a safe and therapeutic space that allows you to explore and express your innermost feelings, thoughts, emotions, and life experiences. I have extensive experience working with diverse populations on issues such as mood disorders such as depression, anxiety, trauma-related issues, relationship challenges, self-esteem issues, and grief and loss. Through a collaborative effort, I am here to assist you in exploring your concern(s) and empowering you in embracing a new perspective towards attaining positive overcomes. I employ a strengths-based, wholistic approach as well as draw from a variety of treatment modalities such as cognitive-behavioral therapy, psycho-dynamic, and rational-emotive counseling that is tailored to meet your individual needs. I also integrate self-awareness and mindfulness in my therapeutic style which would assist you in developing in-depth insight and focus on the present. I hope to have the opportunity to collaborate with you and to be of service in actualizing your mental health goal(s)."
   },
   {
-    "code":"bg-success",
+    "code":"bg-info",
     "id":"lady",
     "name":"Lady Bevel, PA",
     "title": "Psychological Associate",
@@ -160,7 +160,7 @@
     "bio":"My name is Jimmy Barker. I offer therapy for people who feel stuck, overwhelmed, or disconnected - from themselves, from others, or from the life they want to be living. Whether you’re facing anxiety, relationship struggles, trauma, identity shifts, or a sense that something isn’t working, I provide a space to slow down and tune in. My approach isn’t about fixing you. It’s about creating a relationship where you feel deeply seen and heard, so that real healing and growth can emerge from within you. In our work together, I follow your pace and help you listen more closely to yourself - not just your thoughts, but the quieter signals in your body. I believe you carry a kind of inner knowing, even if it’s hard to hear at first. My role is to offer presence, curiosity, and care as you reconnect with that knowing and begin to move in a way that feels more true to who you are."
   },
    {
-    "code":"bg-info",
+    "code":"bg-primary",
     "id":"lara",
     "name":"Lara Loest, Psy.D.",
     "title": "Psychological Assistant",
@@ -200,7 +200,7 @@
     "bio":""
   },
     {
-    "code":"bg-primary",
+    "code":"bg-warning",
     "id":"Claudia",
     "name":"Claudia DuVal, APCC",
     "title": "Associate Professional Clinical Counselor",
