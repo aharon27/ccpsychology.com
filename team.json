@@ -1,5 +1,15 @@
 [
     {
+    "code":"bg-primary",
+    "id":"inga",
+    "name":"Inga Simonian, Ph.D.",
+    "title": "Clinical Psychologist",
+    "license":"PSY25302",
+    "photo":"assets/img/teams/.jpg",
+    "video":"",
+    "bio":"I am the founder and director of Conscious Connections Psychology Group, a holistic group practice with a diverse team of therapists that treat the whole person, family and community. We have 25 therapists in our practice and three locations, including a somatic studio.  I obtained my Bachelor’s Degree from UC Irvine and my Master’s and PhD from California Professional School of Psychology at AIU, Alhambra.  My training journey began at Santa Anita Family Service as a practicum student, where I held families with love and presence. At a time when I didn’t have any formal therapy experience, my intuition and true self started peeking through with beautiful souls going through darkness from all corners. Following that, I did an internship at BHC Alhambra Hospital in their intake department as well as the inpatient and outpatient units, assessing and treating acute crisis patients of all ages. I continued working at the hospital while transitioning to the Wright Institute where I got formal training in psychoanalytic theory with reputable analysts from the West LA area and saw patients multiple times a week. I did my second internship at La Vie Counseling Center where I stepped out of the books and into soul with faith based therapy and intersubjective training. I started my practice in 2012 and it grew naturally and gradually into what it is today, with the help of my husband with the behind the scenes support. In 2017 I obtained a one-year training certificate from the C.G. Jung Institute of Los Angeles, and since completing that study, I have been a participating member of a monthly alchemy seminar.  Today I am an artist, dancer, mother and currently studying and writing music. My art has been featured in the Mirrors of The Mind Psychotherapist as Artist exhibit in Los Angeles. Although many of you won’t see me as a client, my hands are on the therapists that treat you and I oversee your healing process. There is nothing more courageous than saying yes to death of the old self and beginning anew. Thank you for unbecoming. We are here to help birth the real you."
+  },
+    {
     "code":"bg-warning",
     "id":"jane",
     "name":"Jane Oh, Ph.D.",
