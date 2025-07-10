@@ -20,7 +20,7 @@
     "bio":"I started on my journey to learn about human relationships at UC Davis where I received my bachelor's degrees in psychology and sociology. I continued my education at California School of Professional Psychology at Alliant International University earning a master's and doctoral degree. I began my training with a focus on child and family psychotherapy through community clinics providing services to foster children and low income families. Through my training I have gained expertise in working with children and teens through individual and family therapy. Working with families has allowed me gain expertise in working with individuals of various ages with consideration of how family history and relationships impact who they are and obstacles they may face. I have successfully assisted parents in strengthening their parenting skills while helping them feel empowered. Upon licensure I began working with children ages 2-5 focused on assisting caregivers with building a strong positive relationship in order for both caregiver and child to become resilient and successful. I am currently working on certification in Parent Child Interaction Therapy through UC Davis. I also have a passion for working with children and adults with ADHD knowing that the challenges can be a lifelong struggle. I work with a strength based approach knowing that individuals have internal resources to help them overcome any difficulties they are facing. Knowing that humans and relationships are constantly evolving, I continue my journey in professional development in an effort to learn approaches that will best help individuals."
   },
       {
-    "code":"bg-primary",
+    "code":"bg-info",
     "id":"tammy",
     "name":"Tammy Moshrefi, AMFT",
     "title": "Associate Marriage and Family",
@@ -60,7 +60,7 @@
     "bio":"Thank you for choosing to be here. I’m Kathleen Nogoy, an Associate Marriage and Family Therapist. I earned my Master’s in Marriage and Family Therapy from Alliant International University, where I built a strong foundation for supporting others with intention and care. I believe that within each of us lives a version that feels more connected, calm, and at ease—and my hope is to help you reconnect with that part of yourself. In our work together, you’ll find a warm, non-judgmental space to reflect, be curious, and gently explore the layers of your inner world. Therapy is a collaborative journey, and I’m here to walk alongside you—offering tools and insights you can carry with you not only in session, but throughout your everyday life. Reaching out is a meaningful first step. We can begin with a brief consultation to see if this space feels right for you."
   },
        {
-    "code":"bg-info",
+    "code":"bg-primary",
     "id":"triana",
     "name":"Triana Reyes, AMFT",
     "title": "Associate Marriage and Family Therapist",
@@ -100,7 +100,7 @@
     "bio":"My name is Dr. Michelle Melendres, a Licensed Clinical Social Worker with a passion for supporting individuals through their unique journeys. Originally from Hawai'i, I have a Master of Science in Social Work from Columbia University and a Doctorate in Education from the University of California, Los Angeles. I believe that each person's path to healing and wellness is as unique as their story, and my approach to therapy is deeply tailored to honor your individual background, experiences, and the complex intersectionality of your identity. I incorporate an ecological framework that takes into account the biological, psychological, social, and spiritual aspects of who you are, your unique circumstances, and the environments in which you live. I take an integrative, trauma-informed, mindfulness-based, and culturally-sensitive approach to therapy, focusing on your strengths and building your resilience. I specialize in working with athletes and individuals in high-performance sports environments, grief and loss, life transitions, work-life balance, cultural oppression, relationship and family dynamics, and generational trauma. I have experience in working with individuals who seek support for navigating through their anxiety, depression, adjustment disorders, personality disorders, PTSD, and trauma-related issues. Through our collaborative work together, I aim to empower you to develop self-compassion and deepen your capacity for presence and self-awareness.  It would be my privilege to support you on your journey toward healing, growth, and personal empowerment."
   },
         {
-    "code":"bg-primary",
+    "code":"bg-success",
     "id":"stefanie",
     "name":"Stefanie Garcia, LMFT",
     "title": "Marriage and Family Therapist",
