@@ -219,7 +219,7 @@
     "video":"",
     "bio":" Hi, my name is Denise Madrigal and I am an Associate Marriage & Family Therapist. I have a Master’s degree in Counseling Psychology.  My approach to therapy is humanistic, adapting therapy to the client's specific needs.  I am trained in Child Parent Psychotherapy, Multidimensional Family Therapy, and Cognitive Behavioral Therapy.  I am bilingual and certified to provide therapy to Spanish-speaking individuals, couples, and families.  I have experience working with children (including ages 0-5), adolescents, adults, families, and couples.  As a therapist, I strive to support my clients to strengthen their emotional well-being by developing insight and gaining tools they can use throughout their lives.  "
   },
-       {
+    {
     "code":"bg-primary",
     "id":"Marina",
     "name":"Marina Vega, AMFT",
@@ -228,5 +228,15 @@
     "photo":"assets/img/teams/36.jpg",
     "video":"",
     "bio":"Marina Vega is an Associate Marriage and Family Therapist dedicated to providing compassionate care to individuals, couples, families, and children. She is under the direct supervision of Dr. Inga Simonian and is available for sessions both in person and via telehealth. Marina received her Master of Science in Counseling Psychology, with a specialization in Marriage and Family Therapy, from Mount Saint Mary's University, Los Angeles. Marina began training as a person-centered therapist in the UK after a career change as an educator, specializing in special education, and is a qualified yoga teacher. Marina works from a trauma-informed, holistic, and person-centered lens. She has experience supporting clients who have experienced significant trauma and PTSD, as well as members of the neurodivergent community. Marina is 2SLGBTQIA+ affirming and strives to create a safe, supportive, and inclusive space for all her clients."
+  },
+    {
+    "code":"bg-success",
+    "id":"Vanessa",
+    "name":"Vanessa Petersen, AMFT",
+    "title": "Associate Marriage and Family Therapist",
+    "license":"AMFT",
+    "photo":"assets/img/teams/37.jpg",
+    "video":"",
+    "bio":"Hello! I am a registered Associate Marriage and Family Therapist working with adults, couples, and children. As a therapist, I strive to create a safe, non-judgmental space where you have room to be heard and to explore what’s true to you. I provide a warm, collaborative style and believe meaningful and lasting change comes from within. We will process what’s heavy and work to understand the thoughts, behaviors, or relational patterns that are no longer serving you. With over 20 years in the non-profit cancer and chronic disease space, I am comfortable working with individuals going through a diagnosis, recurrence, or who are caregiving for ill or aging family members, and/or dealing with grief. I also have experience working with the older adult (65+) population, as well as those caring for aging family members, specifically with dementia."
   }
 ]
