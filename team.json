@@ -41,13 +41,13 @@
   },
     {
     "code":"bg-info",
-    "id":"suzanne",
-    "name":"Suzanne Smith, Psy.D.",
-    "title": "Psychological Associate",
-    "license":"PSB9402125",
+    "id":"Graison",
+    "name":"Graison Anderson, AMFT",
+    "title": "Associate Marriage and Family Therapist",
+    "license":"AMFT159088",
     "photo":"assets/img/teams/04.jpg",
-    "video":"https://www.youtube.com/embed/uy_A7-HplTg",
-    "bio":"I am a psychological assistant with a doctorate degree in Clinical Psychology specializing in working with children, adolescents, and adults who are experiencing a wide range of behavioral, developmental, emotional, and relational difficulties. My approach is primarily cognitive behavioral evidence based therapy. My focus is on present day concerns, abolishing the self-defeating behaviors, empowering clients reduce stress, and lead emotionally balanced and fulfilling life.I specialize in: Dealing with parental stress and depression raising children with developmental challenges such as Autism Spectrum Disorders (ASD), and ADHD. Improving parent child communication, and decreasing parental stress. I help parents to understand children's unique emotional needs, and specific communication styles. Working with adults: I provide a supportive environment for healing. I help to facilitate positive change for my clients. I work with individuals who seek help with a wide range of concerns, such as anxiety, depression, anger, stress, post-traumatic stress disorder, relationship issues, and work related problems. I focus on creating a safe place for my clients in a welcoming, warm and caring practice, offering the safety to explore and express painful and difficult emotions in a confidential setting."
+    "video":"",
+    "bio":"My name is Graison Anderson and I am an Associate Marriage and Family Therapist working under the supervision of Dr. Inga Simonian. I received a Master of Arts in Marital and Family Therapy from Alliant International University. I hold the belief that we all experience life differently, therefore therapy is not a one size fits all endeavor. I work to offer a holistic and collaborative therapeutic approach that is customizable to the clients’ needs, focusing not only on the mind, but the body and spirit as well. I value mindfulness, being present with my clients, truly listening and creating a strong client-therapist relationship."
   },
       {
     "code":"bg-success",
