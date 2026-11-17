@@ -278,5 +278,15 @@
     "photo":"assets/img/teams/45.jpg",
     "video":"",
     "bio":"My name is Mark Didia. I am an Associate Marriage and Family Therapist applicant, working under the supervision of Dr. Inga Simonian. Prior to pursuing a career in therapy, I was an educator in LA County jails, juvenile detention centers, and the Los Angeles Unified School District. Additionally, I completed my clinical training at Sycamores, where I provided therapeutic services to children, families, and individual adults. As a therapist, I believe each individual deserves to feel genuinely understood to foster a collaborative therapeutic relationship. My practice centers on creating a safe therapeutic space for people of diverse cultural backgrounds, identities, and life experiences. I utilize a holistic approach that considers how diversity, culture, and identity intersect in an individual's life. This approach ensures the therapeutic experience feels tailored to the unique needs of each client. I have had the privilege of engaging with individuals in very challenging circumstances. They shared their unique pains, struggles, joys, and the often complex ways life has affected them. Life can be a difficult journey. As a fellow traveller, I believe we can discover healing, even if it initially feels elusive."
+  },
+    {
+    "code":"bg-info",
+    "id":"sara",
+    "name":"Sara Cruz, APCC",
+    "title": "Associate Professional Clincal Counselor",
+    "license":"APCC24335",
+    "photo":"assets/img/teams/46.jpg",
+    "video":"https://www.youtube.com/embed/fnbr5hkl3XA",
+    "bio":"Hi, I’m Sara! I’m an Associate Professional Clinical Counselor and doctoral student in Clinical Psychology, offering therapy in both English and Spanish. I know starting therapy can feel intimidating, so I strive to create a space where you feel comfortable, supported, and genuinely heard. I enjoy working with adults navigating anxiety, depression, trauma, relationship concerns, life transitions, and periods when life simply feels overwhelming. I especially value working with Latina/o/e communities and understand the importance that cultura y familia can have in shaping our identities, relationships, and emotional well-being. I take a holistic and person-centered approach to therapy, which means looking at the whole person rather than focusing only on symptoms. Together, we may explore how your emotional well-being connects with your relationships, culture, family, physical health, daily habits, environment, and past experiences. My style is warm and collaborative, and I believe you are the expert on your own life. My goal is to help you build on the strengths you already have, better understand what you need, and find realistic tools that fit into your everyday life."
   }
 ]
